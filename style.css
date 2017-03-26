@@ -34,12 +34,14 @@
     background-color: #f5f5f5;
     margin-top: 250px;
     margin-bottom: 15px;
-    border-radius: 2px;
+    border-radius: 4px;
     box-shadow: 0px 0px 7px black;
 }
 
 #profile-photo {
     margin-top: -175px;
+    height: 350px;
+    width: 350px;
     box-shadow: 0px -2px 10px black;
 }
 
