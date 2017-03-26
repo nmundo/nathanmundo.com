@@ -41,3 +41,7 @@
     margin-top: -175px;
     box-shadow: 0px -2px 10px black;
 }
+
+.navigationbutton {
+    padding: 15px 0px;
+}
