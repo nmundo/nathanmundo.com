@@ -1,4 +1,4 @@
-.content:before {
+/*.content:before {
     content: "";
     position: fixed;
     left: -5%;
@@ -10,16 +10,13 @@
     width: 110%;
     height: 110%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
 
-    -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
     filter: blur(3px);
+}
+*/
+body {
+    background-color: grey;
 }
 
 .content {
